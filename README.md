@@ -6,7 +6,7 @@ License: BSD 3-Clause
 
 Search for available domain from [expireddomains.net](https://www.expireddomains.net/)
 
-Use GetExpiredDomains to get all the 550 results.
+Use GetExpiredDomains.py to get all the 550 results.
 
 Note：
 
