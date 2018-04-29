@@ -1,6 +1,7 @@
 # GetExpiredDomains
 
 Author: 3gstudent
+
 License: BSD 3-Clause
 
 Search for available domain from expireddomains.net
